@@ -13,6 +13,9 @@ http://ionicframework.com/getting-started/
 https://forum.ionicframework.com/t/has-anyone-deployed-an-ionic-app-to-heroku/8284/6
 
 
+Run localhost
+ionic serve
+
 ## Further work
 - Create UI design
 - Content
